@@ -1,0 +1,88 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 500px;
+  background-color: white;
+  padding: 24px;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 12px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+  padding: 8px;
+  margin-top: 4px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.legend {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-left: 4px solid #007bff;
+  margin-bottom: 24px;
+  border-radius: 5px;
+}
+
+.legend ul {
+  padding-left: 10px;
+  margin: 0;
+}
+
+.legend li {
+  list-style: none;
+  margin: 6px 0;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.mensagem {
+  font-weight: 800;
+  color: #008000;
+}
+
+.erro {
+  color: #ff0000;
+  font-weight: 400;
+  text-align: center;
+}
