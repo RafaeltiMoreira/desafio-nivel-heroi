@@ -4,7 +4,7 @@
 # 🎯 Deploy do Desafio
 🔗 [Clique aqui para acessar a página](https://nivel-heroi-dio.netlify.app/)
 
-![Preview da Página](.github/preview.png)
+![Preview da Página](.github/previewI.png)
 
 # 🗂️ Estrutura do Projeto
 
