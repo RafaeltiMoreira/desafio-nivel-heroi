@@ -2,7 +2,7 @@
 **Projeto:** Este repositório contém a solução do desafio Classificador de Nível de Herói da DIO. O objetivo é receber o nome e a quantidade de experiência (XP) de um herói, e, com base em uma estrutura de decisão, classificar o nível do personagem de acordo com a tabela de faixas de XP.
 
 # 🎯 Deploy do Desafio
-🔗 [Clique aqui para acessar a página](https://discord-css-dio.netlify.app/)
+🔗 [Clique aqui para acessar a página](https://nivel-heroi-dio.netlify.app/)
 
 ![Preview da Página](.github/preview.png)
 
@@ -60,7 +60,7 @@ Armazenar o nome e a quantidade de experiência (XP) de um herói, depois utiliz
 ## 🔗 Links de Referência
 
 - [Plataforma DIO](https://web.dio.me/)
-- [Deploy Netlify](https://discord-css-dio.netlify.app/)
+- [Deploy Netlify](https://nivel-heroi-dio.netlify.app/)
 
 ## 👨‍💻 Autor
 
